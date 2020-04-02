@@ -1,0 +1,18 @@
+# игнорируем файл Thumbs.db
+Thumbs.db
+
+# игнорируем файл .DS_Store
+.DS_Store
+
+# игнорируем папку tmp
+tmp/
+
+# игнорируем файлы с суффиксами _old, _backup
+_old*
+_backup*
+
+# игнорируем файл index.html_old
+index.html_old
+
+# игнорируем файл NeuroStartUp.png_backup
+NeuroStartUp.png_backup
